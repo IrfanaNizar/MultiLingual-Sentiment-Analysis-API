@@ -31,7 +31,7 @@ Powered by **Hugging Face’s XLM-RoBERTa** and the **Google Generative AI API**
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/multilingual-sentiment-analysis-api.git
+git clone https://github.com/IrfanaNizar/multilingual-sentiment-analysis-api.git
 
 # Navigate into the project folder
 cd multilingual-sentiment-analysis-api
@@ -81,7 +81,3 @@ Example request (POST):
 
 ---
 
-
-
-I can now also make you a **visually appealing GitHub README version** with **badges, demo GIFs, and collapsible sections** so it instantly grabs attention.
-Do you want me to prepare that version?
